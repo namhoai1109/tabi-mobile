@@ -1,0 +1,6 @@
+export const PLAN_LIST_PATH = "/user/schedules"
+export const PLAN_BY_ID = "/user/schedules/bookings/:id"
+export const ADD_PLAN_PATH = "/user/schedules"
+export const UPDATE_PLAN_PATH = "/user/schedules/:id"
+export const DELETE_ALL_PLANS_PATH = "/user/schedules"
+export const DELETE_PLAN_PATH = "/user/schedules/:id"

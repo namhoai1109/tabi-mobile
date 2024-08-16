@@ -1,0 +1,3 @@
+type LoginParams = {
+  isLogin: boolean
+}

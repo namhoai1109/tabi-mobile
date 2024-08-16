@@ -1,0 +1,6 @@
+export const BRANCH_LIST_PATH = "/branches"
+export const BRANCH_BY_ID = "/branches/:id"
+export const RATE_BRANCH_BY_ID = "user/branches/:id/rate"
+export const BRANCH_ROOM_LIST_PATH = "/branches/:id/rooms"
+export const BRANCH_FEATURED = "/branches/featured-branches"
+export const BRANCH_RECOMMENDED = "/branches/recommended-branches"
